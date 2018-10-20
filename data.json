@@ -110,16 +110,6 @@
     "website":"https://www.arangodb.com"
   },
      {
-    "bio":"Simple and elegant component-based UI library.",
-    "count":"https://ghbtns.com/github-btn.html?user=riot&repo=riot&type=star&count=true",  
-    "github":"https://github.com/riot/riot",
-    "image":"https://camo.githubusercontent.com/bc98a6d478312f08a123d52e4b5b5366d9045d9b/68747470733a2f2f72696f742e6a732e6f72672f696d672f6c6f676f2f72696f74343830782e706e67",
-    "name":"Riot / component-based UI library",  
-    "shortname":"Riot",
-    "tech":"With  JavaScript 93.6%   HTML 6.0%   Other 0.4%",
-    "website":"https://riot.js.org"
-  }, 
-     {
     "bio":"📦🐈 Fast, reliable, and secure dependency management.",
     "count":"https://ghbtns.com/github-btn.html?user=yarnpkg&repo=yarn&type=star&count=true",  
     "github":"https://github.com/yarnpkg/yarn/",
@@ -527,26 +517,6 @@
     "shortname":"ionic",
     "tech":" TypeScript 36.4%    HTML 34.3%  CSS 19.5%   JavaScript 9.8%",
     "website":"https://ionicframework.com/"
-  },
-    {
-    "bio":"Thymeleaf is a modern server-side Java template engine for both web and standalone environments.",
-    "count":"https://ghbtns.com/github-btn.html?user=thymeleaf&repo=thymeleaf&type=star&count=true",  
-    "github":"https://github.com/thymeleaf/thymeleaf",
-    "image":"https://www.thymeleaf.org/images/thymeleaf.png",
-    "name":"Thymeleaf / HTML5 template engine  ",  
-    "shortname":"Thymeleaf",
-    "tech":"With  Java 100.0%",
-    "website":"http://www.thymeleaf.org"
-  },
-    {
-    "bio":"Template engine & Generic tool to generate text output (anything from HTML to auto generated source code) based on templates. It's a Java package, a class library for Java programmers. It's not an application for end-users in itself, but something that programmers can embed into their products. FreeMarker is designed to be practical for the generation of HTML Web pages, particularly by servlet-based applications following the MVC (Model View Controller) pattern.",
-    "count":"https://ghbtns.com/github-btn.html?user=apache&repo=freemarker&type=star&count=true",  
-    "github":"https://github.com/apache/freemarker",
-    "image":"https://freemarker.apache.org/logo.png",
-    "name":"Java API ",  
-    "shortname":"FreeMarker",
-    "tech":"With Java 92.6%  FreeMarker 7.0%     HTML 0.4%",
-    "website":"https://freemarker.apache.org"
   },
   {
     "bio":"WordPress is open source software you can use to create a beautiful website, blog, or app.",

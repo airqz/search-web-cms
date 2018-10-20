@@ -38,9 +38,6 @@
   <![endif]-->
 
   <!-- Header -->
-
-
-
   <header class="header">
     <div class="container">
       <div class="grid">
@@ -49,21 +46,6 @@
             <a class="nav-link" href="./">Look for Web repository and search with Github and Ajax <br /><i class="fa fa-star"></i> Projects for Hacktoberfest <i class="fa fa-star"></i></a>
           </nav>
 <div id="update"></div>
-<script id="results" type="text/x-handlebars-template">
-  {{#each this}}
-  <div class="row sort-item" data-name="{{name}}" data-tech="{{tech}}">
-    <div class="small-12 columns">
-      <h2> {{name}}</h2>
-      <a href="{{website}}" target="_blank"> Official 2 {{shortname}} <i class="fa fa-home"></i> Website </a><img width="52px" src="{{image}}"/><a href="{{github}}" target="_blank"> Open <i class="fa fa-github"> </i> {{shortname}} Github </a>
-      <url width="52px" src="{{count}}"/>
-            <p> {{bio}}</p>
-      <h3> {{tech}}</h3>
-            <iframe id="inlinecount" title="countgithub" frameborder="q" allowfullscreen="true" scrolling="no" width="162px" height="42px" src="{{count}}"><strong> {{name}}</strong></iframe><br />
-      <hr />
-    </div>
-  </div>
-  {{/each}}
-</script>
         </div>
         <div class="cell float-center">
            <!-- <nav class="nav nav-inline nav-lined">
@@ -104,7 +86,7 @@
      $.each(data, function(key, value){
       if (value.name.search(expression) != -1 || value.github.search(expression) != -1 || value.bio.search(expression) != -1 || value.tech.search(expression) != -1)
       {
-       $('#result').append('<br /><li class="list-group-item link-class"><img src="'+value.image+'" width="72" /> '+value.name+' <br /> <p>'+value.tech+'</p><br /><span class="text-muted">'+value.bio+'</span><br /><br /><iframe id="inlinecount" title="countgithub" frameborder="0" allowfullscreen="true" scrolling="no" width="162px" height="42px" src="'+value.count+'"></iframe><br /><a src="'+value.website+'" target="_blank" /> Official <i class="fa fa-home"></i> '+value.shortname+' Website </a> | <span><a src="'+value.github+'" target="_blank" /> Open <i class="fa fa-github"></i> Source Github </a></span></li><br />');
+       $('#result').append('<br /><li class="list-group-item link-class"><iframe id="inlinecount" title="countgithub" frameborder="0" allowfullscreen="true" scrolling="no" width="162px" height="42px" src="'+value.count+'"></iframe><img src="'+value.image+'" width="72" /> '+value.name+' <br /> <p>'+value.tech+'</p><br /><span class="text-muted">'+value.bio+'</span><br /></li><br />');
      }
    });   
    });
@@ -117,10 +99,5 @@
   });  */
  });
 </script>
-<!-- Content -->
-<!-- Scripts 
-<script src="https://unpkg.com/vue@2.4.2/dist/vue.js"></script>
-<script src="jquery.js"></script>
-<script src="script.js"></script>-->
 </body>
 </html>
