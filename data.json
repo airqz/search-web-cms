@@ -479,45 +479,6 @@
     "tech":"With  Scala 70.3%    Java 28.4%  HTML 1.0%   Shell 0.2%  JavaScript 0.1%     Roff 0.0%",
     "website":"http://www.playframework.com/"
   },
-    {
-    "bio":"CodeIgniter is a powerful PHP framework with a very small footprint, built for developers who need a simple and elegant toolkit to create full-featured web applications.",
-    "count":"https://ghbtns.com/github-btn.html?user=bcit-ci&repo=CodeIgniter&type=star&count=true",  
-    "github":"https://github.com/bcit-ci/CodeIgniter",
-    "image":"https://codeigniter.com/assets/images/ci-logo-big.png",
-    "name":"CodeIgniter / Framework", 
-    "shortname":"CodeIgniter",
-    "tech":"With PHP 97.4%  HTML 1.3%   Python 0.6%     JavaScript 0.3%     Makefile 0.2%   CSS 0.1%    Shell 0.1%",
-    "website":"https://codeigniter.com/"
-  },    {
-    "bio":"Freeciv-web is an Open Source strategy game implemented in HTML5 and WebGL, which can be played online against other players, or in single player mode against AI opponents.",
-    "count":"https://ghbtns.com/github-btn.html?user=freeciv&repo=freeciv-web&type=star&count=true",  
-    "github":"https://github.com/freeciv/freeciv-web",
-    "image":"https://avatars0.githubusercontent.com/u/4588720?s=200&v=4",
-    "name":"freeciv-web / HTML5 game", 
-    "shortname":"freeciv-web",
-    "tech":" JavaScript 80.0%    Java 6.3%   CSS 5.8%    Python 4.9%     Shell 1.6%  GLSL 1.0%   Other 0.4%",
-    "website":"https://www.freecivweb.org/"
-  },
-    {
-    "bio":"The world’s fastest framework for building websites. Hugo is a static HTML and CSS website generator written in Go. It is optimized for speed, ease of use, and configurability. Hugo takes a directory with content and templates and renders them into a full HTML website.",
-    "count":"https://ghbtns.com/github-btn.html?user=gohugoio&repo=hugo&type=star&count=true",  
-    "github":"https://github.com/gohugoio/hugo",
-    "image":"https://raw.githubusercontent.com/gohugoio/hugoDocs/master/static/img/hugo-logo.png",
-    "name":"hugo / Framework", 
-    "shortname":"hugo",
-    "tech":" Go 98.4%    Other 1.6%",
-    "website":"https://gohugo.io"
-  },
-    {
-    "bio":"Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉.",
-    "count":"https://ghbtns.com/github-btn.html?user=ionic-team&repo=ionic&type=star&count=true",  
-    "github":"https://github.com/ionic-team/ionic",
-    "image":"https://avatars0.githubusercontent.com/u/3171503?s=200&v=4",
-    "name":"ionic / Web Components", 
-    "shortname":"ionic",
-    "tech":" TypeScript 36.4%    HTML 34.3%  CSS 19.5%   JavaScript 9.8%",
-    "website":"https://ionicframework.com/"
-  },
   {
     "bio":"WordPress is open source software you can use to create a beautiful website, blog, or app.",
     "count":"https://ghbtns.com/github-btn.html?user=WordPress&repo=WordPress&type=star&count=true",
