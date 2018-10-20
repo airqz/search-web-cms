@@ -1,0 +1,561 @@
+[
+    {
+    "bio":"Bolt is a simple CMS written in PHP. It is based on Silex and Symfony components, uses Twig and either SQLite, MySQL or PostgreSQL.",
+    "count":"https://ghbtns.com/github-btn.html?user=bolt&repo=bolt&type=star&count=true",  
+    "github":"https://github.com/bolt/bolt",
+    "image":"https://bolt.cm/theme/bolt-v300/images/bolt.png?d50a093d99",
+    "name":"Bolt / CMS", 
+    "shortname":"Bolt",
+    "tech":" PHP 72.1%   JavaScript 13.0%    HTML 9.1%   CSS 5.7%    Shell 0.1%",
+    "website":"https://bolt.cm"
+  },
+    {
+    "bio":"  We're the leading open-source CMS for ambitious digital experiences that reach your audience across multiple channels.",
+    "count":"https://ghbtns.com/github-btn.html?user=drupal&repo=drupal&type=star&count=true",  
+    "github":"https://github.com/drupal/drupal",
+    "image":"https://www.drupal.org/files/cta/graphic/drupal.svg",
+    "name":"Drupal / CMS ",  
+    "shortname":"Drupal",
+    "tech":"With   PHP 93.0%     JavaScript 3.8%     HTML 1.6%   CSS 1.5%    Shell 0.1%",
+    "website":"https://www.drupal.org/home"
+  },
+    {
+    "bio":"Minimalistic, lean & mean, node.js cms",
+    "count":"https://ghbtns.com/github-btn.html?user=Gottwik&repo=Enduro&type=star&count=true",  
+    "github":"https://github.com/Gottwik/Enduro",
+    "image":"https://s3-eu-west-1.amazonaws.com/enduro.website/direct_uploads/1484647617_made_with_enduro@2x.png",
+    "name":"Enduro / CMS ",  
+    "shortname":"Enduro",
+    "tech":"With JavaScript 95.5%  CSS 2.7%  HTML 1.8%",
+    "website":"http://www.endurojs.com/"
+  },
+    {
+    "bio":"Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS",
+    "count":"https://ghbtns.com/github-btn.html?user=getgrav&repo=grav&type=star&count=true",  
+    "github":"https://github.com/getgrav/grav",
+    "image":"https://avatars1.githubusercontent.com/u/8237355?v=2&s=50",
+    "name":"Grav / CMS ",  
+    "shortname":"Grav",
+    "tech":"With  PHP 99.6%  Other 0.4%",
+    "website":"https://getgrav.org"
+  },
+    {
+    "bio":"Content Management System developed with Laravel framework. Multilingual PHP CMS built with Laravel and bootstrap",
+    "count":"https://ghbtns.com/github-btn.html?user=LavaLite&repo=cms&type=star&count=true",  
+    "github":"https://github.com/LavaLite/cms",
+    "image":"https://avatars2.githubusercontent.com/u/6159678?s=200&v=4",
+    "name":"LavaLite / CMS ",  
+    "shortname":"LavaLite",
+    "tech":"With PHP 86.4%  JavaScript 9.4%   HTML 3.9%   Other 0.3%",
+    "website":"https://lavalite.org"
+  },
+    {
+    "bio":"Node.js CMS and web app framework. KeystoneJS is an open source framework for developing database-driven websites, applications and APIs in Node.js. Built on Express and MongoDB.",
+    "count":"https://ghbtns.com/github-btn.html?user=keystonejs&repo=keystone&type=star&count=true",  
+    "github":"https://github.com/keystonejs/keystone",
+    "image":"data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIKCSB2aWV3Qm94PSIwIDAgMTAwIDEwMS40IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAxMDAgMTAxLjQiIHhtbDpzcGFjZT0icHJlc2VydmUiPgoJPGc+DQoJCTxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik05NS42LDBINC40QzIsMCwwLDIsMCw0LjV2OTIuNWMwLDIuNSwyLDQuNSw0LjQsNC41aDkxLjJjMi40LDAsNC40LTIsNC40LTQuNVY0LjVDMTAwLDIsOTgsMCw5NS42LDB6DQoJCQkgTTYzLjgsODYuOEw0Mi40LDU3LjhsLTUuNSw2Ljd2MjIuM0gyMi4zdi03MmgxNC41djMyLjJsMjUtMzIuMmgxOC41TDUyLjMsNDguNWwzMCwzOC4zSDYzLjh6Ii8+DQoJPC9nPgo8L3N2Zz4NCg==",
+    "name":"keystone / CMS ",  
+    "shortname":"keystone",
+    "tech":"With JavaScript 91.0%  CSS 7.7%  HTML 1.3%",
+    "website":"https://keystonejs.com"
+  },
+    {
+    "bio":"CMS framework for Django",
+    "count":"https://ghbtns.com/github-btn.html?user=stephenmcd&repo=mezzanine&type=star&count=true",  
+    "github":"https://github.com/stephenmcd/mezzanine",
+    "image":"http://mezzanine.jupo.org/static/img/mezzanine-logo.png",
+    "name":"Mezzanine / CMS",  
+    "shortname":"Mezzanine",
+    "tech":"With Python 54.4%   JavaScript 34.9%  HTML 6.1%   CSS 4.6%",
+    "website":"http://mezzanine.jupo.org"
+  },
+    {
+    "bio":"A Django CMS focused on flexibility and user experience",
+    "count":"https://ghbtns.com/github-btn.html?user=wagtail&repo=wagtail&type=star&count=true",  
+    "github":"https://github.com/wagtail/wagtail",
+    "image":"https://camo.githubusercontent.com/33b68033503fc5de8f26c6aa827dce1339ddc032/68747470733a2f2f63646e2e7261776769742e636f6d2f7761677461696c2f7761677461696c2f6d61737465722f2e6769746875622f7761677461696c2e737667",
+    "name":"Wagtail / CMS",  
+    "shortname":"Wagtail",
+    "tech":"With Python 80.9%  HTML 8.6%   JavaScript 6.1%   CSS 4.2%  Shell 0.2%  Makefile 0.0%",
+    "website":"https://wagtail.io"
+  },
+    {
+    "bio":"TYPO3 CMS is an Open Source Enterprise CMS",
+    "count":"https://ghbtns.com/github-btn.html?user=TYPO3&repo=TYPO3.CMS&type=star&count=true",  
+    "github":"https://github.com/TYPO3/TYPO3.CMS",
+    "image":"https://typo3.org/typo3conf/ext/t3olayout/Resources/Public/Images/Template/typo3_nomargins.svg",
+    "name":"Typo3 / CMS",  
+    "shortname":"Typo3",
+    "tech":"With PHP 70.3%   HTML 10.7%   TypoScript 6.3%   JavaScript 6.7%   CSS 6%",
+    "website":"https://typo3.org/"
+  },
+    {
+    "bio":"🍴 Fast front-end web app build tool with simple declarative config, seamless incremental compilation for rapid development, an opinionated pipeline and workflow, and core support for source maps.",
+    "count":"https://ghbtns.com/github-btn.html?user=brunch&repo=brunch&type=star&count=true",  
+    "github":"https://github.com/brunch/brunch",
+    "image":"https://avatars1.githubusercontent.com/u/575509?s=200&v=4",
+    "name":"Brunch / HTML5 applications",  
+    "shortname":"Brunch",
+    "tech":"With  JavaScript 100.0%",
+    "website":"http://brunch.io"
+  },
+     {
+    "bio":"ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.",
+    "count":"https://ghbtns.com/github-btn.html?user=arangodb&repo=arangodb&type=star&count=true",  
+    "github":"https://github.com/arangodb/arangodb",
+    "image":"https://www.arangodb.com/wp-content/uploads/2016/10/ArangoDB-logo-bg.svg",
+    "name":"ArangoDB / Data",  
+    "shortname":"ArangoDB",
+    "tech":"With  C++ 78.6%  JavaScript 13.8%    C 2.8%  Python 1.5%     HTML 0.7%   Java 0.4%   Other 2.2%",
+    "website":"https://www.arangodb.com"
+  },
+     {
+    "bio":"Simple and elegant component-based UI library.",
+    "count":"https://ghbtns.com/github-btn.html?user=riot&repo=riot&type=star&count=true",  
+    "github":"https://github.com/riot/riot",
+    "image":"https://camo.githubusercontent.com/bc98a6d478312f08a123d52e4b5b5366d9045d9b/68747470733a2f2f72696f742e6a732e6f72672f696d672f6c6f676f2f72696f74343830782e706e67",
+    "name":"Riot / component-based UI library",  
+    "shortname":"Riot",
+    "tech":"With  JavaScript 93.6%   HTML 6.0%   Other 0.4%",
+    "website":"https://riot.js.org"
+  }, 
+     {
+    "bio":"📦🐈 Fast, reliable, and secure dependency management.",
+    "count":"https://ghbtns.com/github-btn.html?user=yarnpkg&repo=yarn&type=star&count=true",  
+    "github":"https://github.com/yarnpkg/yarn/",
+    "image":"https://github.com/yarnpkg/assets/raw/master/yarn-kitten-full.png?raw=true",
+    "name":"Yarn / Package Manager",  
+    "shortname":"Yarn",
+    "tech":"With  JavaScript 98.6%   Shell 1.1%  Other 0.3%",
+    "website":" https://yarnpkg.com"
+  },
+     {
+    "bio":"The Rust package manager",
+    "count":"https://ghbtns.com/github-btn.html?user=rust-lang&repo=cargo&type=star&count=true",  
+    "github":"https://github.com/rust-lang/cargo",
+    "image":"https://doc.rust-lang.org/stable/cargo/images/Cargo-Logo-Small.png",
+    "name":"Cargo / Package Manager",  
+    "shortname":"Cargo",
+    "tech":"With   Rust 98.1%    Roff 1.6%   Shell 0.3%",
+    "website":"https://doc.rust-lang.org/cargo"
+  },
+    {
+    "bio":" A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML5, DocBook 5 (or 4.5) and other formats",
+    "count":"https://ghbtns.com/github-btn.html?user=asciidoctor&repo=asciidoctor&type=star&count=true",  
+    "github":"https://github.com/asciidoctor/asciidoctor",
+    "image":"",
+    "name":"Asciidoctor / Package Manager",  
+    "shortname":"Asciidoctor",
+    "tech":"With Ruby 96.0%     CSS 2.3%    Gherkin 1.7%",
+    "website":"https://asciidoctor.org"
+  },
+    {
+    "bio":"ferret is a web scraping system aiming to simplify data extraction from the web for such things like UI testing, machine learning and analytics.",
+    "count":"https://ghbtns.com/github-btn.html?user=MontFerret&repo=ferret&type=star&count=true",  
+    "github":"https://github.com/MontFerret/ferret",
+    "image":"https://raw.githubusercontent.com/MontFerret/ferret/master/assets/intro.jpg",
+    "name":"Ferret / UI testing",  
+    "shortname":"Ferret",
+    "tech":"With  Go 99.0%   Other 1.0%",
+    "website":""
+  },
+    {
+    "bio":"foxxy : create your app with ArangoDB Foxx RiotJS UIKIT3 Brunch Yarn. Foxxy is a simple tool which help you starting with your single page application using ArangoDB / Foxx for backend and API, riotjs for views and brunch to build your assets.",
+    "count":"https://ghbtns.com/github-btn.html?user=solisoft&repo=foxxy&type=star&count=true",  
+    "github":"https://github.com/solisoft/foxxy",
+    "image":"",
+    "name":"Foxxy / API",  
+    "shortname":"Foxxy",
+    "tech":"With JavaScript 85.1%   Ruby 6.5%   HTML 6.3%   CSS 2.1%",
+    "website":"https://foxxy.ovh"
+  },
+    {
+    "bio":"A web framework for Lua and OpenResty written in MoonScript.",
+    "count":"https://ghbtns.com/github-btn.html?user=leafo&repo=lapis&type=star&count=true",  
+    "github":"https://github.com/leafo/lapis",
+    "image":"",
+    "name":"lapis / Web Framework",  
+    "shortname":"Lapis",
+    "tech":"With  MoonScript 54.5%   Lua 44.7%   Other 0.8%",
+    "website":"http://leafo.net/lapis/"
+  },
+    {
+    "bio":"The Spring Framework provides a comprehensive programming and configuration model for modern Java-based enterprise applications - on any kind of deployment platform.",
+    "count":"https://ghbtns.com/github-btn.html?user=spring-projects&repo=spring-framework&type=star&count=true",  
+    "github":"https://github.com/spring-projects/spring-framework",
+    "image":"https://github.com/spring-projects/spring-framework/raw/master/src/docs/asciidoc/images/spring-framework.png",
+    "name":"Spring / Framework", 
+    "shortname":"Spring",
+    "tech":"With Java 99.2%  Kotlin 0.4%     CSS 0.1%    HTML 0.1%   Groovy 0.1%     AspectJ 0.1%",
+    "website":"http://projects.spring.io/spring-framework"
+  },
+    {
+    "bio":"An open and flexible framework for enclave applications",
+    "count":"https://ghbtns.com/github-btn.html?user=google&repo=asylo&type=star&count=true",  
+    "github":"https://github.com/google/asylo",
+    "image":"https://asylo.dev/img/asylo-logo.svg",
+    "name":"Asylo / Framework",  
+    "shortname":"Asylo",
+    "tech":"With C++ 84.7%   Python 9.2%     C 3.8%  Smarty 1.1%     Shell 0.8%  Go 0.2%     Other 0.2%",
+    "website":"https://asylo.dev"
+  },
+    {
+    "bio":"React components for efficiently rendering large lists and tabular data.",
+    "count":"https://ghbtns.com/github-btn.html?user=bvaughn&repo=react-virtualized&type=star&count=true",  
+    "github":"https://github.com/bvaughn/react-virtualized",
+    "image":"https://cloud.githubusercontent.com/assets/29597/11737732/0ca1e55e-9f91-11e5-97f3-098f2f8ed866.png",
+    "name":"React / Components & Library", 
+    "shortname":"React-virtualized",
+    "tech":"With JavaScript 97.2%    CSS 1.7%    HTML 1.1%",
+    "website":"http://www.reactvirtualized.com"
+  },
+    {
+    "bio":"Catalog of React Components & Libraries.",
+    "count":"https://ghbtns.com/github-btn.html?user=devarchy&repo=frontend-catalogs&type=star&count=true",  
+    "github":"https://github.com/devarchy/frontend-catalogs",
+    "image":"",
+    "name":"React / Components & Library", 
+    "shortname":"Catalogs of libraries for frontend development",
+    "tech":"",
+    "website":"https://devarchy.com/react"
+  },
+    {
+    "bio":"Salesforce Lightning Design System in React.",
+    "count":"https://ghbtns.com/github-btn.html?user=salesforce&repo=design-system-react&type=star&count=true",  
+    "github":"https://github.com/salesforce/design-system-react",
+    "image":"",
+    "name":"React / Components & Library", 
+    "shortname":"design-system-react",
+    "tech":"With JavaScript 99.2%    Other 0.8%",
+    "website":"https://react.lightningdesignsystem.com/"
+  },
+    {
+    "bio":"🌲 React UI Framework for the Web. Build and Maintained Open‑Source by Segment",
+    "count":"https://ghbtns.com/github-btn.html?user=segmentio&repo=evergreen&type=star&count=true",  
+    "github":"https://github.com/segmentio/evergreen",
+    "image":"data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMTU0cHgiIGhlaWdodD0iMzJweCIgdmlld0JveD0iMCAwIDE1NCAzMiIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDwhLS0gR2VuZXJhdG9yOiBTa2V0Y2ggNDkuMyAoNTExNjcpIC0gaHR0cDovL3d3dy5ib2hlbWlhbmNvZGluZy5jb20vc2tldGNoIC0tPgogICAgPHRpdGxlPmV2ZXJncmVlbi1sb2dvLXdvcmRtYXJrPC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2guPC9kZXNjPgogICAgPGRlZnM+PC9kZWZzPgogICAgPGcgaWQ9IlBhZ2UtMSIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPGcgaWQ9IkRlc2t0b3AtSEQtQ29weSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTY0MC4wMDAwMDAsIC0yMjguMDAwMDAwKSI+CiAgICAgICAgICAgIDxnIGlkPSJHcm91cC0yIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAwMDAwMCwgNTYuMDAwMDAwKSI+CiAgICAgICAgICAgICAgICA8ZyBpZD0iSGVybyI+CiAgICAgICAgICAgICAgICAgICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNDYzLjAwMDAwMCwgMTcyLjAwMDAwMCkiIGlkPSJDb250ZW50Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPGc+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZyBpZD0iZXZlcmdyZWVuLWxvZ28td29yZG1hcmsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDE3Ny4wMDAwMDAsIDAuMDAwMDAwKSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGc+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik01MC43Njg5MTg2LDE5LjgwMjczNDQgTDQ1LjAyMDg3MTcsMTkuODAyNzM0NCBMNDUuMDIwODcxNywxNi42MDM1MTU2IEw1MC40NDM3MjMzLDE2LjYwMzUxNTYgTDUwLjQ0MzcyMzMsMTQuNTY0NDUzMSBMNDUuMDIwODcxNywxNC41NjQ0NTMxIEw0NS4wMjA4NzE3LDExLjUwNTg1OTQgTDUwLjc2ODkxODYsMTEuNTA1ODU5NCBMNTAuNzY4OTE4Niw5LjMxNzM4MjgxIEw0Mi4zNjY1NzQ4LDkuMzE3MzgyODEgTDQyLjM2NjU3NDgsMjIgTDUwLjc2ODkxODYsMjIgTDUwLjc2ODkxODYsMTkuODAyNzM0NCBaIE02MC42ODgyNTQ1LDIyIEw2NC45NTA5NDk4LDkuMzE3MzgyODEgTDYyLjA1OTM0ODMsOS4zMTczODI4MSBMNTkuMTU4OTU3NywxOS4yNjY2MDE2IEw1OS4wOTc0MzQyLDE5LjI2NjYwMTYgTDU2LjE5NzA0MzYsOS4zMTczODI4MSBMNTMuMjI2MzQwNSw5LjMxNzM4MjgxIEw1Ny40ODkwMzU4LDIyIEw2MC42ODgyNTQ1LDIyIFogTTc1Ljk5NTI4NTgsMTkuODAyNzM0NCBMNzAuMjQ3MjM4OSwxOS44MDI3MzQ0IEw3MC4yNDcyMzg5LDE2LjYwMzUxNTYgTDc1LjY3MDA5MDUsMTYuNjAzNTE1NiBMNzUuNjcwMDkwNSwxNC41NjQ0NTMxIEw3MC4yNDcyMzg5LDE0LjU2NDQ1MzEgTDcwLjI0NzIzODksMTEuNTA1ODU5NCBMNzUuOTk1Mjg1OCwxMS41MDU4NTk0IEw3NS45OTUyODU4LDkuMzE3MzgyODEgTDY3LjU5Mjk0MjEsOS4zMTczODI4MSBMNjcuNTkyOTQyMSwyMiBMNzUuOTk1Mjg1OCwyMiBMNzUuOTk1Mjg1OCwxOS44MDI3MzQ0IFogTTgxLjkxNTU5ODMsMTEuMzkxNjAxNiBMODEuOTE1NTk4MywxNS40MzQ1NzAzIEw4NC4yMDA3NTQ2LDE1LjQzNDU3MDMgQzg1LjUzNjY5MjEsMTUuNDM0NTcwMyA4Ni4zMTg5MTg2LDE0LjY2OTkyMTkgODYuMzE4OTE4NiwxMy40MTMwODU5IEM4Ni4zMTg5MTg2LDEyLjE4MjYxNzIgODUuNDkyNzQ2OCwxMS4zOTE2MDE2IDg0LjE3NDM4NzQsMTEuMzkxNjAxNiBMODEuOTE1NTk4MywxMS4zOTE2MDE2IFogTTgxLjkxNTU5ODMsMTcuMzU5Mzc1IEw4MS45MTU1OTgzLDIyIEw3OS4yNjEzMDE1LDIyIEw3OS4yNjEzMDE1LDkuMzE3MzgyODEgTDg0LjQ1NTYzNzQsOS4zMTczODI4MSBDODcuMzczNjA2MSw5LjMxNzM4MjgxIDg5LjA0MzUyOCwxMC44NTU0Njg4IDg5LjA0MzUyOCwxMy4zNjAzNTE2IEM4OS4wNDM1MjgsMTQuOTg2MzI4MSA4OC4xOTk3NzgsMTYuMzkyNTc4MSA4Ni43NDA3OTM2LDE2Ljk2Mzg2NzIgTDg5LjQxMjY2ODYsMjIgTDg2LjQwNjgwOTMsMjIgTDg0LjA0MjU1MTUsMTcuMzU5Mzc1IEw4MS45MTU1OTgzLDE3LjM1OTM3NSBaIE0xMDMuNDcxNjUzLDE2LjY3MzgyODEgTDEwMy40NzE2NTMsMTUuMjQxMjEwOSBMOTguMTI3OTAzLDE1LjI0MTIxMDkgTDk4LjEyNzkwMywxNy4xNzQ4MDQ3IEwxMDAuODg3NjY5LDE3LjE3NDgwNDcgTDEwMC44Nzg4OCwxNy4zNzY5NTMxIEMxMDAuODI2MTQ1LDE4Ljk1MDE5NTMgOTkuNjIyMDQzNywyMC4wMTM2NzE5IDk3Ljg5MDU5ODQsMjAuMDEzNjcxOSBDOTUuNzgxMjIzNCwyMC4wMTM2NzE5IDk0LjQ0NTI4NTksMTguMzM0OTYwOSA5NC40NDUyODU5LDE1LjU4Mzk4NDQgQzk0LjQ0NTI4NTksMTIuODg1NzQyMiA5NS43MDIxMjE4LDExLjI5NDkyMTkgOTcuNzkzOTE4NywxMS4yOTQ5MjE5IEM5OS4yMjY1MzU5LDExLjI5NDkyMTkgMTAwLjMwNzU5MSwxMi4wODU5Mzc1IDEwMC42OTQzMDksMTMuNDEzMDg1OSBMMTAzLjM1NzM5NSwxMy40MTMwODU5IEMxMDIuOTc5NDY2LDEwLjg0NjY3OTcgMTAwLjc0NzA0NCw5LjA5NzY1NjI1IDk3Ljc4NTEyOTYsOS4wOTc2NTYyNSBDOTQuMDU4NTY3MSw5LjA5NzY1NjI1IDkxLjczODI1NDYsMTEuNTU4NTkzOCA5MS43MzgyNTQ2LDE1LjYxOTE0MDYgQzkxLjczODI1NDYsMTkuNzQxMjEwOSA5NC4wNTg1NjcxLDIyLjIxOTcyNjYgOTcuODQ2NjUzLDIyLjIxOTcyNjYgQzEwMS4zNzk4NTYsMjIuMjE5NzI2NiAxMDMuNDcxNjUzLDIwLjEyNzkyOTcgMTAzLjQ3MTY1MywxNi42NzM4MjgxIFogTTEwOS4yMjQ5NzMsMTEuMzkxNjAxNiBMMTA5LjIyNDk3MywxNS40MzQ1NzAzIEwxMTEuNTEwMTMsMTUuNDM0NTcwMyBDMTEyLjg0NjA2NywxNS40MzQ1NzAzIDExMy42MjgyOTQsMTQuNjY5OTIxOSAxMTMuNjI4Mjk0LDEzLjQxMzA4NTkgQzExMy42MjgyOTQsMTIuMTgyNjE3MiAxMTIuODAyMTIyLDExLjM5MTYwMTYgMTExLjQ4Mzc2MiwxMS4zOTE2MDE2IEwxMDkuMjI0OTczLDExLjM5MTYwMTYgWiBNMTA5LjIyNDk3MywxNy4zNTkzNzUgTDEwOS4yMjQ5NzMsMjIgTDEwNi41NzA2NzcsMjIgTDEwNi41NzA2NzcsOS4zMTczODI4MSBMMTExLjc2NTAxMiw5LjMxNzM4MjgxIEMxMTQuNjgyOTgxLDkuMzE3MzgyODEgMTE2LjM1MjkwMywxMC44NTU0Njg4IDExNi4zNTI5MDMsMTMuMzYwMzUxNiBDMTE2LjM1MjkwMywxNC45ODYzMjgxIDExNS41MDkxNTMsMTYuMzkyNTc4MSAxMTQuMDUwMTY5LDE2Ljk2Mzg2NzIgTDExNi43MjIwNDQsMjIgTDExMy43MTYxODQsMjIgTDExMS4zNTE5MjcsMTcuMzU5Mzc1IEwxMDkuMjI0OTczLDE3LjM1OTM3NSBaIE0xMjcuODQ1NDgxLDE5LjgwMjczNDQgTDEyMi4wOTc0MzQsMTkuODAyNzM0NCBMMTIyLjA5NzQzNCwxNi42MDM1MTU2IEwxMjcuNTIwMjg2LDE2LjYwMzUxNTYgTDEyNy41MjAyODYsMTQuNTY0NDUzMSBMMTIyLjA5NzQzNCwxNC41NjQ0NTMxIEwxMjIuMDk3NDM0LDExLjUwNTg1OTQgTDEyNy44NDU0ODEsMTEuNTA1ODU5NCBMMTI3Ljg0NTQ4MSw5LjMxNzM4MjgxIEwxMTkuNDQzMTM3LDkuMzE3MzgyODEgTDExOS40NDMxMzcsMjIgTDEyNy44NDU0ODEsMjIgTDEyNy44NDU0ODEsMTkuODAyNzM0NCBaIE0xMzkuNTEzODQxLDE5LjgwMjczNDQgTDEzMy43NjU3OTQsMTkuODAyNzM0NCBMMTMzLjc2NTc5NCwxNi42MDM1MTU2IEwxMzkuMTg4NjQ1LDE2LjYwMzUxNTYgTDEzOS4xODg2NDUsMTQuNTY0NDUzMSBMMTMzLjc2NTc5NCwxNC41NjQ0NTMxIEwxMzMuNzY1Nzk0LDExLjUwNTg1OTQgTDEzOS41MTM4NDEsMTEuNTA1ODU5NCBMMTM5LjUxMzg0MSw5LjMxNzM4MjgxIEwxMzEuMTExNDk3LDkuMzE3MzgyODEgTDEzMS4xMTE0OTcsMjIgTDEzOS41MTM4NDEsMjIgTDEzOS41MTM4NDEsMTkuODAyNzM0NCBaIE0xNDUuMzE5ODk1LDIyIEwxNDUuMzE5ODk1LDEzLjY5NDMzNTkgTDE0NS4zOTg5OTcsMTMuNjk0MzM1OSBMMTUxLjMzMTYxNCwyMiBMMTUzLjUyODg4LDIyIEwxNTMuNTI4ODgsOS4zMTczODI4MSBMMTUwLjk4ODg0MSw5LjMxNzM4MjgxIEwxNTAuOTg4ODQxLDE3LjU3OTEwMTYgTDE1MC45MTg1MjgsMTcuNTc5MTAxNiBMMTQ0Ljk5NDcsOS4zMTczODI4MSBMMTQyLjc3OTg1Niw5LjMxNzM4MjgxIEwxNDIuNzc5ODU2LDIyIEwxNDUuMzE5ODk1LDIyIFoiIGlkPSJFdmVyZ3JlZW4iIGZpbGw9IiNGRkZGRkYiIGZpbGwtcnVsZT0ibm9uemVybyI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZyBpZD0iTG9nby0vLVNvbGlkLVRyZWUtMyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZyBpZD0iR3JvdXAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxjaXJjbGUgaWQ9Ik92YWwiIGZpbGw9IiMzOEEwNjUiIGZpbGwtcnVsZT0ibm9uemVybyIgY3g9IjE2IiBjeT0iMTYiIHI9IjE2Ij48L2NpcmNsZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cmVjdCBpZD0iUmVjdGFuZ2xlIiBmaWxsPSIjRkZGRkZGIiBmaWxsLXJ1bGU9Im5vbnplcm8iIHg9IjE1IiB5PSIyMiIgd2lkdGg9IjIiIGhlaWdodD0iNCI+PC9yZWN0PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnIGlkPSJUcmlhbmdsZSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoOS4wMDAwMDAsIDcuMDAwMDAwKSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnIGlkPSJwYXRoLTEtbGluayIgZmlsbD0iI0ZGRkZGRiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cG9seWdvbiBpZD0icGF0aC0xIiBwb2ludHM9IjcgMCAxNCAxNCAwIDE0Ij48L3BvbHlnb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBvbHlnb24gaWQ9IlNoYXBlIiBzdHJva2U9IiNGRkZGRkYiIHN0cm9rZS13aWR0aD0iMS41IiBwb2ludHM9IjcgMS42NzcwNTA5OCAxLjIxMzUyNTUgMTMuMjUgMTIuNzg2NDc0NSAxMy4yNSI+PC9wb2x5Z29uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9nPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZz4KICAgICAgICAgICAgICAgICAgICAgICAgPC9nPgogICAgICAgICAgICAgICAgICAgIDwvZz4KICAgICAgICAgICAgICAgIDwvZz4KICAgICAgICAgICAgPC9nPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+",
+    "name":"Evergreen / Components UI Framework", 
+    "shortname":"Evergreen",
+    "tech":"With JavaScript 97.2%    CSS 2.8%",
+    "website":"https://evergreen.surge.sh/"
+  },
+    {
+    "bio":"Various ReactJS Components",
+    "count":"https://ghbtns.com/github-btn.html?user=stangaone1&repo=reactjs-components&type=star&count=true",  
+    "github":"https://github.com/stangaone1/reactjs-components",
+    "image":"",
+    "name":"React / Components & Library", 
+    "shortname":"reactjs-components",
+    "tech":"With JavaScript 83.4%    CSS 16.6%",
+    "website":""
+  },
+    {
+    "bio":"A beautiful, materialized and flexible React Select control",
+    "count":"https://ghbtns.com/github-btn.html?user=stratos-vetsos&repo=react-selectrix&type=star&count=true",  
+    "github":"https://github.com/stratos-vetsos/react-selectrix",
+    "image":"",
+    "name":"React / Components & Library", 
+    "shortname":"react-selectrix",
+    "tech":"With  JavaScript 84.2%    CSS 15.3%   HTML 0.5%",
+    "website":"https://stratos-vetsos.github.io/react-selectrix/"
+  },
+    {
+    "bio":"💄 Library of UI components. Various UI components that we are (or were) using at Brainly.",
+    "count":"https://ghbtns.com/github-btn.html?user=brainly&repo=ui-components&type=star&count=true",  
+    "github":"https://github.com/brainly/ui-components/",
+    "image":"",
+    "name":"Library of UI-components", 
+    "shortname":"ui-components",
+    "tech":"With  HTML 49.5%     JavaScript 43.6%    CSS 6.9%",
+    "website":"https://brainly.github.io/ui-components"
+  },
+    {
+    "bio":"Dart is an open-source, scalable programming language, with robust libraries and runtimes, for building web, server, and mobile apps.",
+    "count":"https://ghbtns.com/github-btn.html?user=dart-lang&repo=markdown&type=star&count=true",  
+    "github":"https://github.com/dart-lang/markdown",
+    "image":"",
+    "name":"Dart / library ", 
+    "shortname":"markdown dart-lang",
+    "tech":"With Dart 88.6%  HTML 10.1%  CSS 1.2%    Shell 0.1%",
+    "website":"https://pub.dartlang.org/packages/markdown"
+  },
+    {
+    "bio":"The JavaScript Image Gallery. A free JavaScript image gallery framework that simplifies the process of creating beautiful image galleries for the web and mobile devices.",
+    "count":"https://ghbtns.com/github-btn.html?user=worseisbetter&repo=galleria&type=star&count=true",  
+    "github":"https://github.com/worseisbetter/galleria",
+    "image":"https://galleria.io/wp-content/themes/galleria/dist/images/demo/2m.jpg",
+    "name":"Galleria / Framework", 
+    "shortname":"galleria",
+    "tech":"With JavaScript 82.5%    HTML 13.3%  CSS 4.2%",
+    "website":"http://galleria.io"
+  },
+    {
+    "bio":"iOS and Android Apps with HTML & JavaScript - develop, build and deploy - free and open source!",
+    "count":"https://ghbtns.com/github-btn.html?user=scriptPilot&repo=app-framework&type=star&count=true",  
+    "github":"https://github.com/scriptPilot/app-framework",
+    "image":"https://github.com/scriptPilot/app-framework/raw/master/media/process.png",
+    "name":"app-framework / App Framework", 
+    "shortname":"app-framework",
+    "tech":"With JavaScript 88.0%    Vue 8.3%    HTML 2.7%   CSS 1.0%",
+    "website":""
+  },
+    {
+    "bio":"Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.",
+    "count":"https://ghbtns.com/github-btn.html?user=photonstorm&repo=phaser&type=star&count=true",  
+    "github":"https://github.com/photonstorm/phaser/tree/v3.14.0",
+    "image":"http://phaser.io/images/img.png",
+    "name":"phaser / HTML5 game", 
+    "shortname":"phaser",
+    "tech":" JavaScript 99.9%    GLSL 0.1%",
+    "website":"http://phaser.io"
+  },
+    {
+    "bio":"Web Tracing Framework. Rich tools for instrumenting, analyzing, and visualizing web apps. Make your app jank-free at 60fps!",
+    "count":"https://ghbtns.com/github-btn.html?user=google&repo=tracing-framework&type=star&count=true",  
+    "github":"https://github.com/google/tracing-framework",
+    "image":"https://camo.githubusercontent.com/bac412f8820cf6103690cb9c3cb790394becc754/68747470733a2f2f7261772e6769746875622e636f6d2f676f6f676c652f74726163696e672d6672616d65776f726b2f6d61737465722f6173736574732f73746f72652f73637265656e73686f742d312e706e67",
+    "name":"Web Tracing Framework libraries and extensions.", 
+    "shortname":"tracing-framework",
+    "tech":" JavaScript 87.6%    C++ 5.1%    HTML 3.8%   CSS 2.4%    Shell 0.8%  Makefile 0.2%   Batchfile 0.1%",
+    "website":"http://google.github.io/tracing-framework/"
+  },
+    {
+    "bio":"The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications. The Friendly & Fun Fullstack javascript framework",
+    "count":"https://ghbtns.com/github-btn.html?user=linnovate&repo=mean&type=star&count=true",  
+    "github":"https://github.com/linnovate/mean",
+    "image":"http://mean.io/wp-content/themes/twentysixteen-child/images/footer-ninja.png",
+    "name":"the mean stack / ", 
+    "shortname":"mean.io",
+    "tech":" TypeScript 58.5%    JavaScript 27.5%    HTML 9.7%   CSS 4.0%    Dockerfile 0.3%",
+    "website":"http://mean.io"
+  },
+    {
+    "bio":"The 🤖 platform that ⚡ thousands of bots worldwide",
+    "count":"https://ghbtns.com/github-btn.html?user=botpress&repo=botpress&type=star&count=true",  
+    "github":"https://github.com/botpress/botpress",
+    "image":"https://botpress.io/static/by-for.60d3e054.png",
+    "name":"Botpress — The open-source bot platform", 
+    "shortname":"botpress",
+    "tech":" JavaScript 91.4%    CSS 7.8%    Other 0.8%",
+    "website":"https://botpress.io"
+  },
+    {
+    "bio":"Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.",
+    "count":"https://ghbtns.com/github-btn.html?user=slimphp&repo=Slim&type=star&count=true",  
+    "github":"https://github.com/slimphp/Slim",
+    "image":"https://www.slimframework.com/assets/images/favicon.png",
+    "name":"Slim / Framework", 
+    "shortname":"Slim",
+    "tech":" PHP 100.0%",
+    "website":"http://slimframework.com"
+  },
+    {
+    "bio":"Meta repository that pulls in all dependencies for clean distribution of eZ Platform. Z Platform is a 100% open source professional CMS (Content Management System) developed by eZ Systems and the eZ Community.",
+    "count":"https://ghbtns.com/github-btn.html?user=ezsystems&repo=ezplatform&type=star&count=true",  
+    "github":"https://github.com/ezsystems/ezplatform",
+    "image":"https://ezplatform.com/assets/themes/ezplatform/images/pulley-hero.svg",
+    "name":"ezplatform / CMS", 
+    "shortname":"ezplatform",
+    "tech":" Shell 61.5%     PHP 38.5%",
+    "website":"https://ezplatform.com/"
+  },
+    {
+    "bio":"Clean, minimalistic and fast to implement CSS & JS framework for professional developers and designers alike. Kube (kyu:b) is a web framework for professional developers and designers alike. Kube is built and designed to provide the most flexible yet powerful CSS framework to the community. Unlike many other web frameworks, Kube is great for both super-fast bootstrapping and for a serious cutting edge, future-proof web development.Kube is a wireframe, a skeleton for your project, in a way. It doesn’t impose design styles or code decisions; it does require fluency and proficiency with latest HTML and CSS technologies, though.",
+    "count":"https://ghbtns.com/github-btn.html?user=imperavi&repo=kube&type=star&count=true",  
+    "github":"https://github.com/imperavi/kube",
+    "image":"",
+    "name":"Kube / UI Framework", 
+    "shortname":"kube",
+    "tech":"With  JavaScript 51.9%   CSS 47.6%   HTML 0.5%",
+    "website":"https://imperavi.com/kube/"
+  },
+    {
+    "bio":"A minimal, responsive, style-agnostic CSS framework!",
+    "count":"https://ghbtns.com/github-btn.html?user=Chalarangelo&repo=mini.css&type=star&count=true",  
+    "github":"https://github.com/Chalarangelo/mini.css",
+    "image":"https://github.com/Chalarangelo/mini.css/raw/master/docs/page_thumb.png",
+    "name":"mini.css / CSS Framework", 
+    "shortname":"mini.css",
+    "tech":"With  CSS 100.0%",
+    "website":"https://minicss.org/"
+  },
+    {
+    "bio":"Modern CSS framework based on Flexbox ",
+    "count":"https://ghbtns.com/github-btn.html?user=jgthms&repo=bulma&type=star&count=true",  
+    "github":"https://github.com/jgthms/bulma",
+    "image":"https://bulma.io/images/bulma-logo.png",
+    "name":"bulma / CSS Framework", 
+    "shortname":"bulma",
+    "tech":"With  CSS 99.6%  Shell 0.4%",
+    "website":"https://bulma.io"
+  },
+    {
+    "bio":"Responsive layout toolkit for Sass. usy is a design-agnostic set of tools for creating powerful, custom layouts. We didn't want another grid system full of rules and restrictions — we wanted a power tool for building our own damn systems. Version Three is trimmed down to it's most basic components — functions that can be used to build any grid system.",
+    "count":"https://ghbtns.com/github-btn.html?user=oddbird&repo=susy&type=star&count=true",  
+    "github":"https://github.com/oddbird/susy",
+    "image":"https://avatars1.githubusercontent.com/u/780830?s=200&v=4",
+    "name":"susy / Components ", 
+    "shortname":"susy",
+    "tech":"With  CSS 91.8%  HTML 8.1%   JavaScript 0.1%",
+    "website":"http://susy.oddbird.net/"
+  },
+    {
+    "bio":"Milligram provides a minimal setup of styles for a fast and clean starting point. Just it! Only 2kb gzipped! It's not about a UI framework. Specially designed for better performance and higher productivity with fewer properties to reset resulting in cleaner code. Hope you enjoy!",
+    "count":"https://ghbtns.com/github-btn.html?user=milligram&repo=milligram&type=star&count=true",  
+    "github":"https://github.com/milligram/milligram",
+    "image":"https://camo.githubusercontent.com/d922408dd39d222a2b51a4690f5d5f2f55c719b6/68747470733a2f2f6d696c6c696772616d2e6769746875622e696f2f696d616765732f7468756d626e61696c2e706e67",
+    "name":"milligram / CSS framework", 
+    "shortname":"milligram",
+    "tech":"With  HTML 59.1%     CSS 25.7%   JavaScript 15.2%",
+    "website":"https://milligram.io"
+  },
+    {
+    "bio":"A lightweight and modular front-end framework for developing fast and powerful web interfaces.",
+    "count":"https://ghbtns.com/github-btn.html?user=uikit&repo=uikit&type=star&count=true",  
+    "github":"https://github.com/uikit/uikit",
+    "image":"https://cloud.githubusercontent.com/assets/321047/21769911/474d7d9e-d681-11e6-9fe0-d95f8ccfd3a9.jpg",
+    "name":"uikit / front-end framework", 
+    "shortname":"uikit",
+    "tech":"With  CSS 44.3%  HTML 43.2%  JavaScript 12.5%",
+    "website":"http://getuikit.com"
+  },
+    {
+    "bio":"Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development.",
+    "count":"https://ghbtns.com/github-btn.html?user=dhg&repo=Skeleton&type=star&count=true",  
+    "github":"https://github.com/dhg/Skeleton",
+    "image":"http://getskeleton.com/images/feather.svg",
+    "name":"Skeleton / CSS Framework", 
+    "shortname":"Skeleton",
+    "tech":" CSS 100.0%",
+    "website":"http://www.getskeleton.com"
+  },
+    {
+    "bio":"A set of small, responsive CSS modules that you can use in every web project.",
+    "count":"https://ghbtns.com/github-btn.html?user=pure-css&repo=pure&type=star&count=true",  
+    "github":"https://github.com/pure-css/pure/",
+    "image":"https://avatars2.githubusercontent.com/u/23743443?s=200&v=4",
+    "name":"pure / CSS Framework", 
+    "shortname":"pure",
+    "tech":"with  HTML 66.0%     CSS 22.3%   JavaScript 11.7%",
+    "website":"http://purecss.io/"
+  },
+    {
+    "bio":"React components that implement Google's Material Design.",
+    "count":"https://ghbtns.com/github-btn.html?user=mui-org&repo=material-ui&type=star&count=true",  
+    "github":"https://github.com/mui-org/material-ui",
+    "image":"https://avatars2.githubusercontent.com/u/33663932?s=200&v=4",
+    "name":"material-ui / components", 
+    "shortname":"material-ui",
+    "tech":"With  JavaScript 99.1%   Other 0.9%",
+    "website":"https://material-ui.com/"
+  },
+    {
+    "bio":"Materialize, a CSS Framework based on Material Design.",
+    "count":"https://ghbtns.com/github-btn.html?user=Dogfalo&repo=materialize&type=star&count=true",  
+    "github":"https://github.com/Dogfalo/materialize",
+    "image":"https://camo.githubusercontent.com/af195107cec41b655f09ceb0fdb2f205e540b4a4/687474703a2f2f6d6174657269616c697a656373732e636f6d2f7265732f6d6174657269616c697a652e737667",
+    "name":"materialize / CSS Framework", 
+    "shortname":"materialize",
+    "tech":"With  JavaScript 71.9%   CSS 24.1%   HTML 4.0%",
+    "website":"https://materializecss.com"
+  },
+    {
+    "bio":"The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.",
+    "count":"https://ghbtns.com/github-btn.html?user=zurb&repo=foundation-sites&type=star&count=true",  
+    "github":"https://github.com/zurb/foundation-sites",
+    "image":"https://avatars1.githubusercontent.com/u/156122?s=200&v=4",
+    "name":"foundation-sites / Framework", 
+    "shortname":"foundation-sites",
+    "tech":"With  HTML 57.7%     CSS 28.3%   JavaScript 14.0%",
+    "website":"http://foundation.zurb.com"
+  },
+    {
+    "bio":"Semantic is a UI component framework based around useful principles from natural language.",
+    "count":"https://ghbtns.com/github-btn.html?user=semantic-org&repo=semantic-ui&type=star&count=true",  
+    "github":"https://github.com/semantic-org/semantic-ui/",
+    "image":"https://camo.githubusercontent.com/64fc67646c5de06fe6aae46b33accdb111208897/687474703a2f2f73656d616e7469632d75692e636f6d2f696d616765732f6c6f676f2e706e67",
+    "name":"semantic-ui / UI component framework ", 
+    "shortname":"semantic-ui",
+    "tech":"With  JavaScript 62.9%   CSS 36.4%   HTML 0.7%",
+    "website":"http://www.semantic-ui.com"
+  },
+    {
+    "bio":"The Play Framework combines productivity and performance making it easy to build scalable web applications with Java and Scala. Play is developer friendly with a (just hit refresh) workflow and built-in testing support. With Play, applications scale predictably due to a stateless and non-blocking architecture. By being RESTful by default, including assets compilers, JSON & WebSocket support, Play is a perfect fit for modern web & mobile applications. ",
+    "count":"https://ghbtns.com/github-btn.html?user=playframework&repo=playframework&type=star&count=true",  
+    "github":"https://github.com/playframework/playframework",
+    "image":"https://avatars2.githubusercontent.com/u/319107?s=200&v=4",
+    "name":"Play / Framework", 
+    "shortname":"playframework",
+    "tech":"With  Scala 70.3%    Java 28.4%  HTML 1.0%   Shell 0.2%  JavaScript 0.1%     Roff 0.0%",
+    "website":"http://www.playframework.com/"
+  },
+    {
+    "bio":"CodeIgniter is a powerful PHP framework with a very small footprint, built for developers who need a simple and elegant toolkit to create full-featured web applications.",
+    "count":"https://ghbtns.com/github-btn.html?user=bcit-ci&repo=CodeIgniter&type=star&count=true",  
+    "github":"https://github.com/bcit-ci/CodeIgniter",
+    "image":"https://codeigniter.com/assets/images/ci-logo-big.png",
+    "name":"CodeIgniter / Framework", 
+    "shortname":"CodeIgniter",
+    "tech":"With PHP 97.4%  HTML 1.3%   Python 0.6%     JavaScript 0.3%     Makefile 0.2%   CSS 0.1%    Shell 0.1%",
+    "website":"https://codeigniter.com/"
+  },    {
+    "bio":"Freeciv-web is an Open Source strategy game implemented in HTML5 and WebGL, which can be played online against other players, or in single player mode against AI opponents.",
+    "count":"https://ghbtns.com/github-btn.html?user=freeciv&repo=freeciv-web&type=star&count=true",  
+    "github":"https://github.com/freeciv/freeciv-web",
+    "image":"https://avatars0.githubusercontent.com/u/4588720?s=200&v=4",
+    "name":"freeciv-web / HTML5 game", 
+    "shortname":"freeciv-web",
+    "tech":" JavaScript 80.0%    Java 6.3%   CSS 5.8%    Python 4.9%     Shell 1.6%  GLSL 1.0%   Other 0.4%",
+    "website":"https://www.freecivweb.org/"
+  },
+    {
+    "bio":"The world’s fastest framework for building websites. Hugo is a static HTML and CSS website generator written in Go. It is optimized for speed, ease of use, and configurability. Hugo takes a directory with content and templates and renders them into a full HTML website.",
+    "count":"https://ghbtns.com/github-btn.html?user=gohugoio&repo=hugo&type=star&count=true",  
+    "github":"https://github.com/gohugoio/hugo",
+    "image":"https://raw.githubusercontent.com/gohugoio/hugoDocs/master/static/img/hugo-logo.png",
+    "name":"hugo / Framework", 
+    "shortname":"hugo",
+    "tech":" Go 98.4%    Other 1.6%",
+    "website":"https://gohugo.io"
+  },
+    {
+    "bio":"Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉.",
+    "count":"https://ghbtns.com/github-btn.html?user=ionic-team&repo=ionic&type=star&count=true",  
+    "github":"https://github.com/ionic-team/ionic",
+    "image":"https://avatars0.githubusercontent.com/u/3171503?s=200&v=4",
+    "name":"ionic / Web Components", 
+    "shortname":"ionic",
+    "tech":" TypeScript 36.4%    HTML 34.3%  CSS 19.5%   JavaScript 9.8%",
+    "website":"https://ionicframework.com/"
+  },
+    {
+    "bio":"Thymeleaf is a modern server-side Java template engine for both web and standalone environments.",
+    "count":"https://ghbtns.com/github-btn.html?user=thymeleaf&repo=thymeleaf&type=star&count=true",  
+    "github":"https://github.com/thymeleaf/thymeleaf",
+    "image":"https://www.thymeleaf.org/images/thymeleaf.png",
+    "name":"Thymeleaf / HTML5 template engine  ",  
+    "shortname":"Thymeleaf",
+    "tech":"With  Java 100.0%",
+    "website":"http://www.thymeleaf.org"
+  },
+    {
+    "bio":"Template engine & Generic tool to generate text output (anything from HTML to auto generated source code) based on templates. It's a Java package, a class library for Java programmers. It's not an application for end-users in itself, but something that programmers can embed into their products. FreeMarker is designed to be practical for the generation of HTML Web pages, particularly by servlet-based applications following the MVC (Model View Controller) pattern.",
+    "count":"https://ghbtns.com/github-btn.html?user=apache&repo=freemarker&type=star&count=true",  
+    "github":"https://github.com/apache/freemarker",
+    "image":"https://freemarker.apache.org/logo.png",
+    "name":"Java API ",  
+    "shortname":"FreeMarker",
+    "tech":"With Java 92.6%  FreeMarker 7.0%     HTML 0.4%",
+    "website":"https://freemarker.apache.org"
+  },
+  {
+    "bio":"WordPress is open source software you can use to create a beautiful website, blog, or app.",
+    "count":"https://ghbtns.com/github-btn.html?user=WordPress&repo=WordPress&type=star&count=true",
+    "github":"https://github.com/WordPress/WordPress",
+    "image": "https://avatars2.githubusercontent.com/u/276006?s=200&v=4",
+    "name":"Wordpress / CMS",  
+    "shortname":"Wordpress",
+    "tech":"With PHP 62.9%  JavaScript 25.3%  CSS 11.8%",
+    "website":"https://wordpress.org/"
+  }
+]
