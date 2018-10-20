@@ -5,4 +5,4 @@ Add and find web CMS project!
 for the design and dynamic updating of websites
 
 ## Live Demo
-[Demo cms-framework](https://airqz.github.io/search-web-cms/.)
+[search-web-cms](https://airqz.github.io/search-web-cms/.)
