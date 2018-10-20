@@ -9,4 +9,3 @@ for the design and dynamic updating of websites
 ## Live Demo
 
 [search-web-cms](https://airqz.github.io/search-web-cms/.)
-[search-web-tools](https://airqz.github.io/search-web-tools/.)
