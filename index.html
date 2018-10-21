@@ -43,7 +43,7 @@
       <div class="grid">
         <div class="cell">
           <nav class="nav nav-inline">
-            <a class="nav-link" href="./">Look for Web CMS repository</a><a class="nav-link" href="./"><i class="fa fa-star"></i> Projects f<i class="fa fa-github"></i>r Hacktoberfest <i class="fa fa-star"></i></a><a class="nav-link" href="https://airqz.github.io/search-web-tools/">Web tools</a>
+            <a class="nav-link" href="./">Look for <i class="fa fa-search"></i>Web CMS repository</a><a class="nav-link" href="https://github.com/airqz/search-web-cms"><i class="fa fa-star"></i> Projects f<i class="fa fa-github"></i>r Hacktoberfest <i class="fa fa-star"></i></a><a class="nav-link" href="https://airqz.github.io/search-web-tools/">Web tools</a>
           </nav>
 <div id="update"></div>
         </div>
@@ -86,7 +86,7 @@
      $.each(data, function(key, value){
       if (value.name.search(expression) != -1 || value.github.search(expression) != -1 || value.bio.search(expression) != -1 || value.tech.search(expression) != -1)
       {
-       $('#result').append('<br /><li class="list-group-item link-class"><iframe id="inlinecount" title="countgithub" frameborder="0" allowfullscreen="true" scrolling="no" width="162px" height="42px" src="'+value.count+'"></iframe><img src="'+value.image+'" width="72" /> '+value.name+' <br /> <p>'+value.tech+'</p><br /><span class="text-muted">'+value.bio+'</span><br /></li><br />');
+       $('#result').append('<br /><li class="list-group-item link-class"><iframe id="inlinecount" title="countgithub" frameborder="0" allowfullscreen="true" scrolling="no" width="162px" height="42px" src="'+value.count+'"></iframe><img src="'+value.image+'" width="72" /><br /><b> '+value.name+' </b><br /> <p>'+value.tech+'</p><br /><span class="text-muted">'+value.bio+'</span><br /></li><br />');
      }
    });   
    });
