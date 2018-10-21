@@ -90,6 +90,16 @@
     "website":"http://mezzanine.jupo.org"
   },
     {
+    "bio":"Neos is a Content Application Platform with a CMS and an application framework at its core. Neos CMS UI written in ReactJS with Immutable data structures.",
+    "count":"https://ghbtns.com/github-btn.html?user=neos&repo=neos-ui&type=star&count=true",  
+    "github":"https://github.com/neos",
+    "image":"https://avatars3.githubusercontent.com/u/11575267?s=200&v=4",
+    "name":"Neos / CMS",  
+    "shortname":"Neos",
+    "tech":" JavaScript 70.5%    PHP 12.0%   CSS 11.9%   TypeScript 3.0%     HTML 1.7%   Shell 0.6%  Makefile 0.3%",
+    "website":"https://www.neos.io/"
+  },
+    {
     "bio":"Installing Pico is dead simple - and done in seconds! If you have access to a shell on your server (i.e. SSH access), we recommend using Composer. If not, use a pre-bundled release. If you don't know what (SSH access) ",
     "count":"https://ghbtns.com/github-btn.html?user=picocms&repo=Pico&type=star&count=true",  
     "github":"https://github.com/picocms/Pico",
